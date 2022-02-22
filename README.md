@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Sales & Inventory Management System *(Java Swing using Database Connectivity)***
-- 🌱 I’m currently learning **Data Structures & Algorithms** and **SQL**
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/ahmed-mujtaba-butt-5a214322b/)
 
 <!--
