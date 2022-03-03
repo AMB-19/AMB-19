@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning:
+  - Computer Architecture and Organization
+  - Computer Networks
+  - Numerical Methods
+  - Theory of Automata and Formal Languages
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/ahmed-mujtaba-butt-5a214322b/)
 
 <!--
