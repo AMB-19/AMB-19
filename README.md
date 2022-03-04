@@ -1,10 +1,21 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on:
+  - Developing Desktop Applications using Java
+
 - 🌱 I’m currently learning:
   - Computer Architecture and Organization
   - Computer Networks
   - Numerical Methods
   - Theory of Automata and Formal Languages
+
+- 💬 Ask me about:
+  - C++
+  - Java
+  - SQL
+  - Object Oriented Programming
+  - Data Structures & Algorithms
+  - Database Systems
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/ahmed-mujtaba-butt-5a214322b/)
 
 <!--
