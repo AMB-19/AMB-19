@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning:
   - Computer Architecture and Organization
   - Computer Networks
-  - Numerical Methods
   - Theory of Automata and Formal Languages
 
 - 💬 Ask me about:
