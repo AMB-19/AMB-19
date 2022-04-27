@@ -4,8 +4,8 @@
   - Developing Desktop Applications using Java with SQL Database Connectivity
 
 - 🌱 I’m currently learning:
-  - Computer Architecture and Organization
-  - Computer Networks
+  - Assembly Language
+  - Computer Networkwing
   - Theory of Automata and Formal Languages
 
 - 💬 Ask me about:
