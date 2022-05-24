@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning:
   - Assembly Language
   - Computer Networkwing
-  - Theory of Automata and Formal Languages
+  - Front-End of Compiler
 
 - 💬 Ask me about:
   - C++
