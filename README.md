@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - Developing Desktop Applications using Java with SQL Database Connectivity
+  - Chat Application with File Transfer
 
 - 🌱 I’m currently learning:
   - Assembly Language
